@@ -56,7 +56,9 @@ a, a:hover {
 }
 
 .dsmovie-card{
-  width: 90%; 
+  width: 100%;
+  background-color: var(--white);
+   
 }
   .dsmovie-card img {
     width: 100%;
